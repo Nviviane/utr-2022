@@ -1,1 +1,3 @@
-# utr-2022
+# maven-project
+
+Simple Maven Project
